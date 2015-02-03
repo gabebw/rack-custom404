@@ -25,5 +25,3 @@ use Rack::Custom404, my_404_page_content
 
 run my_app
 ```
-
-Ideally, your 404 page is in
